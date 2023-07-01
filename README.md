@@ -1,4 +1,4 @@
-<img width="460" alt="image" src="https://github.com/javmoreno-developer/javmoreno-developer/assets/55782974/4b8bb5bb-5728-4469-a167-002dfc6fd7c4">
+<img width="399" alt="image" src="https://github.com/javmoreno-developer/javmoreno-developer/assets/55782974/97c75c4f-65e8-4da7-abce-609fb6daaeb8">
 
 <br />
 
