@@ -1,6 +1,7 @@
 <img width="399" alt="image" src="https://github.com/javmoreno-developer/javmoreno-developer/assets/55782974/97c75c4f-65e8-4da7-abce-609fb6daaeb8">
 
 <br />
+<br />
 
 - 👀 I’m interested in web and app development 
 - 🌱 I’m currently working in web development mainly in front
