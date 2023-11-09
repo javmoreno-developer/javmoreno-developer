@@ -53,6 +53,3 @@
 [![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white)](#)
 [![Sass](https://img.shields.io/badge/sass-%23CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white)](#)
 
-<br />
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=javmoreno-developer&theme=git-dim&margin-h=15&margin-w=15&no-bg=true&row=2&column=3)](https://github-profile-trophy.vercel.app/?username=javmoreno-developer&theme=git-dim&margin-h=15&margin-w=15&no-bg=true&row=2&column=3)
